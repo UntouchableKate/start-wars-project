@@ -1,0 +1,9 @@
+.text-h2 {
+  @media (max-width: $breakpoint-sm-max) {
+    font-size: 2.5rem;
+  }
+}
+
+.not-found {
+  background-color: red;
+}
